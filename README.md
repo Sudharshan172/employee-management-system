@@ -1,7 +1,7 @@
 # Employee Details Management System
 
 ## Description
-This project is an Employee Management System built using Django to manage employee details.
+This project is an Employee Details Management System built using Django to manage employee details.
 
 ## Features
 - Employee record management
