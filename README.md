@@ -1,4 +1,4 @@
-# Office Employee Management System
+# Employee Details Management System
 
 ## Description
 This project is an Employee Management System built using Django to manage employee details.
